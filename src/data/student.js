@@ -1,0 +1,3 @@
+var students = [{ id: "1", studentName: "Hoàng Nhật Tân", dateOfBirth: new Date("02/10/2002"), class: "11" }, { id: "2", studentName: "Nguyễn Thị Mỹ", dateOfBirth: new Date("02/10/2005"), class: "11" }, { id: "3", studentName: "Nguyễn Hà Vy", dateOfBirth: new Date("02/10/2002"), class: "21" }, { id: "5", studentName: "Nguyễn Khách Chảnh", dateOfBirth: new Date("02/10/2001"), class: "21" }, { id: "4", studentName: "Trang blink blink like star", dateOfBirth: new Date("02/10/2001"), class: "21" }]
+export default students
+ 
